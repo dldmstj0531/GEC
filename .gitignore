@@ -1,0 +1,82 @@
+# ===============================
+# Python / NLP Project .gitignore
+# ===============================
+
+# ---- Python 기본 ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.p
+*.log
+*.tmp
+*.ipynb_checkpoints/
+*.egg-info/
+*.pytest_cache/
+
+# ---- 가상환경 / 설정 ----
+.venv/
+venv/
+env/
+ENV/
+.DS_Store
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ---- 시스템 파일 ----
+Thumbs.db
+desktop.ini
+
+# ---- 데이터 / 결과 ----
+*.csv
+*.tsv
+*.jsonl
+*.zip
+*.tar.gz
+*.pth
+*.ckpt
+*.bin
+*.npy
+*.npz
+
+# ---- 모델 관련 ----
+# (학습된 모델은 GEC 폴더 내부에 이미 버전 관리되므로 제외하지 않음)
+# model.safetensors 등은 업로드 허용
+
+# ---- 로그 / 캐시 ----
+wandb/
+runs/
+logs/
+outputs/
+*.out
+*.err
+
+# ---- Gradio 관련 ----
+gradio_cached_examples/
+gradio_*.json
+*.mp4
+*.webm
+*.wav
+
+# ---- 노트북 / Colab ----
+.ipynb_checkpoints/
+*.ipynb~
+*.swp
+
+# ---- 운영체제별 ----
+.DS_Store
+ehthumbs.db
+Icon?
+*.ini
+
+# ---- 기타 임시 파일 ----
+*.bak
+*.old
+*.orig
+
+# ---- 개인 환경파일 ----
+*.env
+*.token
