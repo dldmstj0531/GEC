@@ -15,24 +15,6 @@ RoBERTa 기반 GEC 모델을 파인튜닝하여, 실제로 학습된 모델이 �
 ✅ 다운로드 기능
     - 웹 UI에서 교정 결과를 CSV 파일로 바로 다운로드 가능
 
-### 🧩 프로젝트 구조
-GEC/
-│
-├── app3.py                             # Gradio 데모 실행 스크립트
-├── requirements.txt                    # 실행 환경 재현용 패키지 목록
-│
-├── roberta_gector_k5000_noCE_1900K/    # 학습된 GEC 모델 및 토크나이저
-│   ├── model.safetensors
-│   ├── vocab.json
-│   ├── merges.txt
-│   ├── LABEL2ID.json
-│   ├── ID2LABEL.json
-│   ├── gector_utils.py
-│   └── verb-form-vocab.txt
-│
-├── correction_log.csv                  # (실행 후 자동 생성) 교정 로그
-└── README.md                           # 프로젝트 설명 파일
-
 ### ⚙️ 실행 방법
 1️⃣ 패키지 설치
 
