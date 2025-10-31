@@ -55,15 +55,6 @@ Training Dataset: 약 1.9M 문장 (synthetic + BEA 기반)
 Training Objective: Token-level edit-tag classification
 (KEEP / REPLACE / DELETE / ADD / TRANSFORM 등)
 
-### ✨ 예시
-입력 문장	교정 결과
-She go to school every days.	She goes to school every day.
-I recieve teh package yesterday.	I received the package yesterday.
-📄 License
-
-이 프로젝트는 학습 및 연구 목적의 데모용으로 배포됩니다.
-상업적 사용 전 반드시 라이선스를 확인하세요.
-
 ### 🧑‍💻 Author
 
 이서율 (SeoYool Lee)
