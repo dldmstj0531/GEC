@@ -68,3 +68,8 @@ Training Objective: Token-level edit-tag classification
 AI / NLP Research & Development
 📧 Contact: (dldmstj0531@gmail.com)
 
+오정탁 (Jungtak Oh)
+AI / NLP Research & Development
+📧 Contact: (jungtak99@gmail.com)
+
+
