@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/9ce67519-74bc-4c62-996e-6c8649fbefb4
 ## 🧠 GEC: Grammar and Spelling Error Correction Demo
 영어 문장의 문법성 오류 및 오타를 자동으로 교정하는 GEC(Grammatical Error Correction) 프로젝트입니다.
 RoBERTa 기반 GEC 모델을 파인튜닝하여, 실제로 학습된 모델이 교정한 결과를 Gradio 웹 인터페이스로 시각화합니다.
@@ -64,3 +66,7 @@ Training Objective: Token-level edit-tag classification
 이서율 (SeoYool Lee)
 AI / NLP Research & Development
 📧 Contact: (dldmstj0531@gmail.com)
+
+### demo
+https://github.com/user-attachments/assets/f7994a93-9fe0-4fba-9020-d531c2f827f6
+
