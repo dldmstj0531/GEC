@@ -95,7 +95,7 @@ python app3.py
 | **이서율 (SeoYool Lee)** | AI / NLP Research & Development | 📧 [dldmstj0531@gmail.com](mailto:dldmstj0531@gmail.com) |
 | **오정탁 (Jungtak Oh)**  | AI / NLP Research & Development | 📧 [jungtak99@gmail.com](mailto:jungtak99@gmail.com)     |
 | **김아람 (Ahram Kim)**   | AI / NLP Research & Development | 📧 [ahram0223@naver.com](mailto:ahram0223@naver.com)     |
-| \*\*\*\*                 | AI / NLP Research & Development | 📧 []()                                                  |
+| **황호성 (Hosung Hwang)**| AI / NLP Research & Development | 📧 [hhs6228@gmail.com](mailto:hhs6228@gmail.com)         |
 | \*\*\*\*                 | AI / NLP Research & Development | 📧 []()                                                  |
 
 > Team "오탁수정" (LikeLion Team 2)
