@@ -80,3 +80,4 @@ Icon?
 # ---- 개인 환경파일 ----
 *.env
 *.token
+roberta_gector_k5000_noCE_1900K/model.safetensors
